@@ -4,7 +4,7 @@ This repository is a stand-alone one for holding my working code developed in du
 
 I was a participant in the inaugural challenge of 2018/2019, and was successful in being accepted for the Facebook Scholarship that was awarded to 300 of the 10,000 participants in the challenge.
 
-The notebook "image classifier project" was the original template to develop our project, however I have developed my working solution in the other notebooks contained in this repo, then applied them to the notebook. I saved the original notebook as "image classifier project original".
+The notebook "image classifier project" was the original template to develop our project, however I have developed my working solution in the other notebooks contained in this repo, then applied them to the notebook. I saved a backup of the original notebook as "image classifier project original".
 
 ## The essential point
 
